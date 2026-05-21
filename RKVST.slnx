@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="RKVST.Application/RKVST.Application.csproj" />
+  <Project Path="RKVST.Cli/RKVST.Cli.csproj" />
+  <Project Path="RKVST.Domain/RKVST.Domain.csproj" />
+  <Project Path="RKVST.Infrastructure/RKVST.Infrastructure.csproj" />
+</Solution>
