@@ -4,7 +4,7 @@
 
 RKVST (Archivist) is a lightweight, AI-native knowledge system built around semantic retrieval rather than folders, hierarchies, or chat history.
 
-Everything is stored as versioned **entries** connected through **concepts**. Concepts form a navigable semantic graph. Retrieval is graph traversal — not keyword search, not folder browsing.
+Everything is stored as versioned **entries** connected through **concepts**. Concepts form a navigable semantic graph. Retrieval is graph traversal; Not keyword search, not folder browsing.
 
 - Write something → it's stored.
 - Ask for something → relevant information is retrieved.
