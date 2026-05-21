@@ -23,10 +23,10 @@ Everything is stored as versioned **entries** connected through **concepts**. Co
 
 | Project | Type | Role |
 |---|---|---|
-| `Archivist.Domain` | Class Library | Entities, value objects |
-| `Archivist.Application` | Class Library | Commands, queries, interfaces |
-| `Archivist.Infrastructure` | Class Library | SQLite, repositories, AI services |
-| `Archivist.Cli` | Console App | Composition root, CLI |
+| `RKVST.Domain` | Class Library | Entities, value objects |
+| `RKVST.Application` | Class Library | Commands, queries, interfaces |
+| `RKVST.Infrastructure` | Class Library | SQLite, repositories, AI services |
+| `RKVST.Cli` | Console App | Composition root, CLI |
 
 ---
 
