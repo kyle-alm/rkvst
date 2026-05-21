@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RKVST.Domain\RKVST.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
